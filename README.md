@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 汉之殇Wiki
 
 You can use the [editor on GitHub](https://github.com/hanzhishang/hanzhishang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
